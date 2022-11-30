@@ -38,6 +38,9 @@ body.dark{
     --bg-scroll: rgba(43, 44, 47, 0.5);
     --selection-fg: rgb(224 223 225);
     --selection-bg: rgb(104 116 181);
+    /* background-image: url("IMG_9029.JPG"); */
+
+        object-fit: fill;
 }
 
 ::selection{
